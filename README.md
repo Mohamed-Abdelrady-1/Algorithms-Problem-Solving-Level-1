@@ -1,30 +1,24 @@
-[README.md](https://github.com/user-attachments/files/24347777/README.md)
-# C++ Algorithms & Problem Solving - Level 1 
+# Algorithms & Problem Solving - Level 1 Solutions 🚀
 
-This repository documents my journey in mastering C++ fundamentals and algorithm building. It contains practical solutions to algorithmic problems, organized by difficulty and concepts.
+This repository contains my solutions for the **Algorithms & Problem Solving Level 1 Course**. These exercises demonstrate my understanding of logical thinking, algorithm design, and clean coding practices in C++.
 
-> **Current Status:** Set 1 (Basics & Structures) is uploaded. More sets are coming soon! ⏳
+## 📂 Problem Sets Overview
 
-## 📂 Repository Structure
+### 1. Set 1: Basics & Structures (Problems 1-10)
+A collection of fundamental problems focusing on data handling, logical checks, and code modularity.
+* **Key Problems:** Hire Driver System, Full Name Reversal, Student Marks Average.
+* **Concepts:** Structs, Enums, Arrays, Input Validation, Modular Functions.
+* **Status:** [✅ Completed](./01_Basics_and_Structures)
 
-| Set | Folder Name | Problems | Focus Topics |
-| :---: | :--- | :---: | :--- |
-| **01** | [**01_Basics_and_Structures**](./01_Basics_and_Structures) | 01 - 10 | Basic I/O, Structs, Enums, Arrays (Intro) |
-| **02** | *Coming Soon...* | 11 - 20 | Loops & Advanced Validation |
-| **03** | *Coming Soon...* | 21 - 30 | Functions & Modular Programming |
+### 2. Set 2: Loops & Accumulators (Problems 11-20)
+*Coming Soon...*
+Focuses on advanced control flow, loops, and mathematical algorithms.
+* **Concepts:** Nested Loops, Accumulators, Complex Validation.
 
-## 🛠️ Tech Stack & Concepts
-- **Language:** C++
-- **Key Concepts Applied in Set 1:**
-  - `struct` for organizing data (e.g., User Info, Drivers).
-  - `enum` for code readability (e.g., Pass/Fail, Odd/Even).
-  - `arrays` & `do-while` loops.
-  - writing **Clean Code** and Separate Functions.
-
-## 🚀 How to Run
-1. Enter the folder of the specific set (e.g., `01_Basics_and_Structures`).
-2. Open any `.cpp` file in your IDE (Visual Studio / VS Code).
-3. Build and Run the file.
+### 3. Set 3: Functions & Reusability (Problems 21-30)
+*Coming Soon...*
+Demonstrates the power of breaking down complex logic into reusable components.
+* **Concepts:** Pass by Reference, Recursive Logic, Header Files.
 
 ---
-*Solved and Documented by [Mohamed Abdelrady]*
+**Developed by [Mohamed Abdelrady] - 2025**
