@@ -1,4 +1,4 @@
-# Algorithms & Problem Solving - Level 1 Solutions 
+# Algorithms & Problem Solving - Level 1 Solutions
 
 This repository contains my solutions for the **Algorithms & Problem Solving Level 1 Course**. These exercises demonstrate my understanding of logical thinking, algorithm design, and clean coding practices in C++.
 
@@ -16,10 +16,17 @@ Focuses on advanced control flow, referencing variables, and mathematical algori
 * **Concepts:** Pass by Reference, Nested Ifs, `cmath` Library.
 * **Status:** [✅ Completed](./02_Math_Algorithms_and_Logic)
 
-### 3. Set 3: Functions & Reusability (Problems 21-30)
+### 3. Set 3: Loops & Validation (Problems 21-30)
+Marks the shift to iterative programming, loops, and ensuring data integrity.
+* **Key Problems:** Factorial Calculator, Valid Input Loop, Sum Odd/Even.
+* **Concepts:** `for` / `do-while` Loops, Input Validation, long long` Data Types.
+* **Status:** [✅ Completed](./03_Loops_and_Validation)
+
+### 4. Set 4: (Problems 31-40)
 *Coming Soon...*
-Demonstrates the power of breaking down complex logic into reusable components.
-* **Concepts:** Recursive Logic, Advanced Functions, Header Files.
+
+### 5. Set 5: (Problems 41-50)
+*Coming Soon...*
 
 ---
-**Developed by Mohamed Abdelrady - 2025**
+**Developed by [Mohamed Abdelrady] - 2025**
