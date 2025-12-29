@@ -12,7 +12,7 @@ struct stUser_Input
 	enOperation_Type Type;
 };
 
-void Clear_Screen() // This code clears the screen
+void Clear_Screen()
 {
 	cout << "\033[2J\033[1;1H";
 }
@@ -93,4 +93,5 @@ int main()
 {
 	Print_Result(Get_User_Info());
 	return 0;
+
 }
