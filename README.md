@@ -13,8 +13,7 @@ These exercises mark the beginning of my journey, establishing a solid foundatio
 A collection of fundamental problems focusing on data handling, logical checks, and code modularity.
 * **Key Problems:** Hire Driver System, Full Name Reversal, Student Marks Average.
 * **Concepts:** `Structs`, `Enums`, `Arrays`, `Input Validation`, `Modular Functions`.
-* **Status:**
-  <br>[![Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](./01_Basics_and_Structures)
+* **Status:** [![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](./01_Basics_and_Structures)
 
 ### 2. Set 2: Math Algorithms & Logic (Problems 11-20)
 Focuses on advanced control flow, referencing variables, and mathematical algorithms.
